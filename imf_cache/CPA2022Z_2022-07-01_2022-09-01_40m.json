@@ -1,0 +1,22 @@
+{
+  "contract": "CPA2022Z",
+  "start": "2022-07-01 00:00:00+00:00",
+  "end": "2022-09-01 00:00:00+00:00",
+  "target_period_min": 40.0,
+  "band_frac": 0.25,
+  "win_minutes": 240,
+  "step_minutes": 1,
+  "ar_order": 12,
+  "pad_right": 16,
+  "ce_trials": 128,
+  "ce_noise_ratio": 0.15,
+  "roll_sigma_min": 240,
+  "sigma_mult": 2.5,
+  "n_jobs": 22,
+  "chunk_points": 512,
+  "chunks_per_checkpoint": 10,
+  "batch_size": 1,
+  "elapsed_sec": 49569.86803174019,
+  "points_total": 89042,
+  "points_ok": 64705
+}
