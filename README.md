@@ -24,6 +24,7 @@
 ├── 1. exploration+preprocessing_v11.ipynb   # EDA, sanity checks, preprocessing
 ├── 2. strategy_backtest_v11.ipynb           # Feature-driven strategy & backtest
 ├── 3. ML_backtest_v10.ipynb                 # ML models & backtests
+├── imf_cache                                # pre-computed data needed to run backtest
 └── literature/                              # References and related reading
     ├── ...
     └── README (optional notes)
