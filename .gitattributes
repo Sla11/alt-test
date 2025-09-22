@@ -1,1 +1,2 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
 2.[[:space:]]strategy_backtest_v11.ipynb filter=lfs diff=lfs merge=lfs -text
