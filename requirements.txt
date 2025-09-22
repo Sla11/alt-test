@@ -1,0 +1,32 @@
+# ===== requirements.txt =====
+# Core scientific stack
+numpy>=1.24
+pandas>=2.1
+pyarrow>=14
+
+# Stats / modeling
+scipy>=1.10
+statsmodels>=0.14
+scikit-learn>=1.3
+tqdm>=4.66
+
+# IMF / EMD feature engineering
+PyEMD>=0.5.1
+# Optional alternative to PyEMD (commented by default):
+# emd-signal>=0.6.1
+
+# Technical indicators (optional; used in some finance workflows)
+ta>=0.10.2
+
+# Visualization
+matplotlib>=3.7
+plotly>=5.18
+
+# Notebook experience
+jupyterlab>=4.0
+notebook>=7.0
+ipykernel>=6.25
+ipywidgets>=8.1
+
+# Optional performance helpers
+# numba>=0.58
